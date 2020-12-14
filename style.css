@@ -1,0 +1,48 @@
+body {
+    background-color: rgb(208, 215, 219);
+    font-family: sans-serif;
+    text-align: justify;
+}
+
+.title {
+    color: #333333;
+    font-size: 250%;
+    text-align: center;
+}
+
+p.ejemplo {
+    background-color: rgb(181, 193, 201);
+} 
+
+.h2 {
+   background-color: rgb(118, 141, 153);
+   font-size: 200%;
+   color: rgb(53, 73, 83);
+   text-decoration: underline;
+}
+
+p.texto {
+    background-color: rgb(167, 181, 189);
+}
+
+.em {
+    color: rgb(1, 110, 138);
+    font-style: normal;
+}
+
+.strong {
+    color: rgb(0, 122, 204);
+}
+
+.idioma {
+    background-color: rgb(159, 167, 189);
+    color: rgb(96, 113, 133);
+    font-size: 130%;
+    font-style: italic;
+}
+
+p.autor {
+    background-color: white;
+    font-weight: bold;
+    text-align: right;
+}
